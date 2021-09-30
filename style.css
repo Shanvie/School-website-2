@@ -160,7 +160,8 @@ p {
     float: left;
     width: 33.3%;
     padding: 5px;
-    border: 9px solid black ;
+    border: 9px solid white ;
+    font-size: 20px; color: white;
 }
 
 #achievementsID {
